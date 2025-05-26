@@ -1,0 +1,3067 @@
+(export 
+  (version "E") 
+  (design 
+    (source "C:\\Users\\FMVRED\\Documents\\KiCad\\6.0\\projects\\303_MCv3_5\\303_MCv3_5.kicad_sch") 
+    (date "2023/10/13 19:15:39") 
+    (tool "Eeschema (6.0.10)") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "303_MCv3_5.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "C1") 
+      (value "0.1u") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2abddc78-3b34-49c4-943f-95c904f6eb94")) 
+    (comp 
+      (ref "D1") 
+      (value "Yellow") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7165f342-368f-4ed5-84c8-6618eb1a2121")) 
+    (comp 
+      (ref "D2") 
+      (value "PA6") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "debd53fe-c602-411d-9fde-72ecb80428ce")) 
+    (comp 
+      (ref "D3") 
+      (value "PA1") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "46aad841-bfb3-4a56-9a75-a63dcab99189")) 
+    (comp 
+      (ref "D4") 
+      (value "PA7") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "af0b8e46-d859-4166-92fc-d4c188ca1b1a")) 
+    (comp 
+      (ref "D5") 
+      (value "PA3") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7756a841-ea22-49fc-bcb5-6c34143d42d0")) 
+    (comp 
+      (ref "D6") 
+      (value "Yellow") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5b58b597-1e39-4ebb-b1b1-1cedc742c55b")) 
+    (comp 
+      (ref "D7") 
+      (value "USR1") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0070e9eb-f7da-442f-94be-9ef2711aa66e")) 
+    (comp 
+      (ref "D8") 
+      (value "USR2") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8a84b765-d727-4633-80fd-c1ae157dc477")) 
+    (comp 
+      (ref "D9") 
+      (value "USR3") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "549b5243-a38e-490d-b121-f4b72c59a33d")) 
+    (comp 
+      (ref "D10") 
+      (value "PWR") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "97f3aa91-85a0-4397-92c5-aaf0bb597336")) 
+    (comp 
+      (ref "D11") 
+      (value "CUHS20S30") 
+      (footprint "Diode_SMD:D_TUMD2") 
+      (libsource 
+        (lib "Device") 
+        (part "D_Shockley") 
+        (description "Shockley (PNPN) diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "4124b93f-74c0-40dc-a3ee-00bf21497cd6")) 
+    (comp 
+      (ref "D12") 
+      (value "BuzPWR") 
+      (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gI-11879/") 
+      (libsource 
+        (lib "Device") 
+        (part "LED") 
+        (description "Light emitting diode")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a4c38c9a-0d81-4292-9714-930f5a34734c")) 
+    (comp 
+      (ref "H1") 
+      (value "MountingHole_Pad") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole_Pad") 
+        (description "Mounting Hole with connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3b08f24b-e7b4-4777-9b1a-3fae4bde4557")) 
+    (comp 
+      (ref "H2") 
+      (value "MountingHole_Pad") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole_Pad") 
+        (description "Mounting Hole with connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "cf05c65e-ba30-4a7c-a2a4-bff2812e4d95")) 
+    (comp 
+      (ref "H3") 
+      (value "MountingHole_Pad") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole_Pad") 
+        (description "Mounting Hole with connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "20aff311-ba67-43f5-978d-43616c78b905")) 
+    (comp 
+      (ref "H4") 
+      (value "MountingHole_Pad") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole_Pad") 
+        (description "Mounting Hole with connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e80b6d93-f425-4f47-947f-21c2609c1e18")) 
+    (comp 
+      (ref "J1") 
+      (value "PA5") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "491d79c9-d604-414c-a6ee-8856eb121029")) 
+    (comp 
+      (ref "J2") 
+      (value "PA5") 
+      (footprint "Connector_JST_XA:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b6beb108-51ad-4cb8-9cde-aa7a4c856db6")) 
+    (comp 
+      (ref "J3") 
+      (value "ENC2") 
+      (footprint "Connector_JST_XA:JST_XA_B05B-XASK-1_1x05_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x05") 
+        (description "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "76ac08b6-c7c1-478b-95ef-956dc9b20327")) 
+    (comp 
+      (ref "J4") 
+      (value "ENC1") 
+      (footprint "Connector_JST_XA:JST_XA_B05B-XASK-1_1x05_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x05") 
+        (description "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "433693e5-b065-445a-b1a0-01b8c2dcb65a")) 
+    (comp 
+      (ref "J5") 
+      (value "Motor1") 
+      (footprint "Connector_JST_XA:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x03") 
+        (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6e1a4d29-00e1-4449-83a5-227d88f7c3fe")) 
+    (comp 
+      (ref "J6") 
+      (value "Motor2") 
+      (footprint "Connector_JST_XA:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x03") 
+        (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a6deaba9-e8e1-42c1-bfea-85906e893aca")) 
+    (comp 
+      (ref "J7") 
+      (value "PA0") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e1a97732-0d66-466a-98dd-2da5c03502e9")) 
+    (comp 
+      (ref "J8") 
+      (value "PA0") 
+      (footprint "Connector_JST_XA:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d9978c30-52c6-4d26-bf4e-6cf7fecfa66c")) 
+    (comp 
+      (ref "J9") 
+      (value "CAN1A") 
+      (footprint "Original:Kai_LAN_RJ45_Neltron_Industrial_7810-8P8C") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gC-00159/") 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "554f02d2-3b6c-4122-bac3-57a1d09c875d")) 
+    (comp 
+      (ref "J10") 
+      (value "CAN1B") 
+      (footprint "Original:Kai_LAN_RJ45_Neltron_Industrial_7810-8P8C") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gC-00159/") 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7374f6f6-351f-4a7a-8e76-a18496652e0e")) 
+    (comp 
+      (ref "J11") 
+      (value "5V_IO") 
+      (footprint "Connector_JST_XA:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "45d786ac-090a-4569-b424-62897bf6ddab")) 
+    (comp 
+      (ref "J12") 
+      (value "CAN") 
+      (footprint "Connector_JST:JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "afe87eec-3808-4963-87e7-268965044ce0")) 
+    (comp 
+      (ref "J13") 
+      (value "3v3_IO") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e18cb4c7-e8f8-48b2-8b8d-688bebaf4664")) 
+    (comp 
+      (ref "J14") 
+      (value "Int1") 
+      (footprint "Connector_JST_XA:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x03") 
+        (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5d93a804-bcbc-4635-b71f-e151ac2e919d")) 
+    (comp 
+      (ref "J15") 
+      (value "Int2") 
+      (footprint "Connector_JST_XA:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x03") 
+        (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a41cf548-af2d-4d07-b3ac-c7f0c00a401d")) 
+    (comp 
+      (ref "J16") 
+      (value "5V_IO") 
+      (footprint "Connector_JST_XA:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f993823e-77e7-4cb7-b65d-59905692ac31")) 
+    (comp 
+      (ref "J17") 
+      (value "3v3_IO") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x02") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ce38fcf2-cb5d-4a6b-987b-03917f323bda")) 
+    (comp 
+      (ref "JP1") 
+      (value "PA5") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6e82e642-4cde-46a2-8a97-fa58d6d840c9")) 
+    (comp 
+      (ref "JP2") 
+      (value "PA6") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3afb111c-eef4-468b-afa6-271f6eb9ad10")) 
+    (comp 
+      (ref "JP3") 
+      (value "PA1") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3b4ff76b-8275-48b2-b43b-992276d73a7c")) 
+    (comp 
+      (ref "JP4") 
+      (value "PA7") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b147667b-8865-4a4b-a892-673f805aa109")) 
+    (comp 
+      (ref "JP5") 
+      (value "PA3") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1f1a752c-fe3e-41b6-b0c8-733c8d74131b")) 
+    (comp 
+      (ref "JP6") 
+      (value "PA0") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e31c4f94-9d3d-4295-9a1a-02a6fcaa571d")) 
+    (comp 
+      (ref "JP7") 
+      (value "USR1") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f07aea22-b048-4a3d-b137-5fec798cb938")) 
+    (comp 
+      (ref "JP8") 
+      (value "USR2") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "02dac1af-de34-4e9f-8862-d95175341d14")) 
+    (comp 
+      (ref "JP9") 
+      (value "USR3") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "05a609a5-1d92-43aa-a813-58977624aef4")) 
+    (comp 
+      (ref "JP10") 
+      (value "PA1-Buz") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fcf4b6e4-5bea-4ad0-a77c-32866c740900")) 
+    (comp 
+      (ref "JP11") 
+      (value "5v-Buz") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "edb0301b-cc3f-434b-b3ff-0e2e37bd4659")) 
+    (comp 
+      (ref "JP12") 
+      (value "NRST-3V3") 
+      (footprint "Original:solderbridge") 
+      (libsource 
+        (lib "Jumper") 
+        (part "SolderJumper_2_Open") 
+        (description "Solder Jumper, 2-pole, open")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c0e83806-bd54-40a0-ac7f-ebd3088c7060")) 
+    (comp 
+      (ref "LS1") 
+      (value "UGCT7525AN4") 
+      (footprint "Original:UGCT7525AN4") 
+      (libsource 
+        (lib "Device") 
+        (part "Speaker") 
+        (description "Speaker")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "108e8449-7ed2-4cb3-963c-a9b5508780ef")) 
+    (comp 
+      (ref "Q1") 
+      (value "2N7002K") 
+      (footprint "Package_TO_SOT_SMD:SOT-23") 
+      (libsource 
+        (lib "Device") 
+        (part "Q_NMOS_GSD") 
+        (description "N-MOSFET transistor, gate/source/drain")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "73838ca9-be41-424e-b103-231e334bfa0f")) 
+    (comp 
+      (ref "R1") 
+      (value "1k") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "bae97619-5c20-4033-bec9-803693320596")) 
+    (comp 
+      (ref "R2") 
+      (value "3k3") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "025135d9-b2b4-4c47-93f2-afa20589eb40")) 
+    (comp 
+      (ref "R3") 
+      (value "3k3") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ea110f05-5de2-4962-a42b-0a1a3cfb4bbc")) 
+    (comp 
+      (ref "R4") 
+      (value "500R") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "741d5bee-faa6-426a-95a3-ff5c09fd8872")) 
+    (comp 
+      (ref "R5") 
+      (value "500R") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "306cef50-89f1-410e-8620-2a2e64e92371")) 
+    (comp 
+      (ref "R6") 
+      (value "1k") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "945d3c8e-f52e-4f49-afcf-3ca401105a6e")) 
+    (comp 
+      (ref "R7") 
+      (value "1k") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "91993b26-cf3e-4150-9aeb-59c7c6a7737c")) 
+    (comp 
+      (ref "R8") 
+      (value "1k") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3b3c6e83-e808-4948-abfb-e361ff4179d3")) 
+    (comp 
+      (ref "R9") 
+      (value "1k") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "701c4663-d775-45e5-a832-884d3c6a520f")) 
+    (comp 
+      (ref "R10") 
+      (value "120R") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c7ae9c06-6d9a-4834-9902-89732a1b28b9")) 
+    (comp 
+      (ref "R11") 
+      (value "1K") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f8037b97-3254-4b41-9253-65908d5fc914")) 
+    (comp 
+      (ref "R12") 
+      (value "200R") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8c4fb833-8443-49d7-a52a-2d9f7521b1be")) 
+    (comp 
+      (ref "R13") 
+      (value "2K") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f79bb0de-f1f6-41b6-b706-8778354ddf61")) 
+    (comp 
+      (ref "R14") 
+      (value "100R") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "de215774-e55e-42f0-bd29-059eec693a76")) 
+    (comp 
+      (ref "R15") 
+      (value "3k3") 
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b741873d-c347-4fcc-aaab-a09abf71acd1")) 
+    (comp 
+      (ref "SW1") 
+      (value "USR1") 
+      (footprint "Original:SW_SPST_PTS810_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gP-06185/") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "eec67220-52ba-407a-ae68-efcaf46af3a0")) 
+    (comp 
+      (ref "SW2") 
+      (value "USR2") 
+      (footprint "Original:SW_SPST_PTS810_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gP-06185/") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fd90d072-0ce8-42b8-997a-2f7478467cc4")) 
+    (comp 
+      (ref "SW3") 
+      (value "USR3") 
+      (footprint "Original:SW_SPST_PTS810_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gP-06185/") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9645ebda-3b31-4347-bf5b-5caf6e85e65b")) 
+    (comp 
+      (ref "SW4") 
+      (value "SW_DPDT_x2") 
+      (footprint "Original:slide_SW") 
+      (datasheet "https://www.marutsu.co.jp/pc/i/605589/") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_DPDT_x2") 
+        (description "Switch, dual pole double throw, separate symbols")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c1ff1608-77d6-4ad0-912c-42974975e14c")) 
+    (comp 
+      (ref "SW5") 
+      (value "NRST") 
+      (footprint "Original:SW_SPST_PTS810_HandSolder") 
+      (datasheet "https://akizukidenshi.com/catalog/g/gP-06185/") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d09762da-1a39-4bb4-9255-67f0c9d6d1d2")) 
+    (comp 
+      (ref "U1") 
+      (value "NUCLEO-F303K8") 
+      (footprint "NUCLEO-F303K8:MODULE_NUCLEO-F303K8") 
+      (fields 
+        (field 
+          (name "MANUFACTURER") "STMicroelectronics") 
+        (field 
+          (name "MAXIMUM_PACKAGE_HEIGHT") "N/A") 
+        (field 
+          (name "PARTREV") "5") 
+        (field 
+          (name "SNAPEDA_PN") "NUCLEO-F303K8") 
+        (field 
+          (name "STANDARD") "Manufacturer Recommendations")) 
+      (libsource 
+        (lib "NUCLEO-F303K8") 
+        (part "NUCLEO-F303K8") 
+        (description "")) 
+      (property 
+        (name "PARTREV") 
+        (value "5")) 
+      (property 
+        (name "MANUFACTURER") 
+        (value "STMicroelectronics")) 
+      (property 
+        (name "SNAPEDA_PN") 
+        (value "NUCLEO-F303K8")) 
+      (property 
+        (name "MAXIMUM_PACKAGE_HEIGHT") 
+        (value "N/A")) 
+      (property 
+        (name "STANDARD") 
+        (value "Manufacturer Recommendations")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8913bd1c-63ec-40ea-a72e-b1c23b7b59f7" "4854b71f-5122-4b72-a6c1-334ef42198c7")) 
+    (comp 
+      (ref "U2") 
+      (value "MCP2561-E-P") 
+      (footprint "Package_DIP:DIP-8_W7.62mm") 
+      (datasheet "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf") 
+      (libsource 
+        (lib "Interface_CAN_LIN") 
+        (part "MCP2561-E-P") 
+        (description "High-Speed CAN Transceiver, 1Mbps, 5V supply, SPLIT pin, -40C to +125C, DIP-8")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "303_MCv3_5.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fe6915f6-2729-4e40-b8a3-8cce6da99c0d"))) 
+  (libparts 
+    (libpart 
+      (lib "Connector") 
+      (part "RJ45") 
+      (description "RJ connector, 8P8C (8 positions 8 connected)") 
+      (docs "~") 
+      (footprints 
+        (fp "8P8C*") 
+        (fp "RJ31*") 
+        (fp "RJ32*") 
+        (fp "RJ33*") 
+        (fp "RJ34*") 
+        (fp "RJ35*") 
+        (fp "RJ41*") 
+        (fp "RJ45*") 
+        (fp "RJ49*") 
+        (fp "RJ61*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "RJ45") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "7") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "8") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_01x02") 
+      (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x02") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_01x03") 
+      (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x03") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "Pin_3") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_01x05") 
+      (description "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x05") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "Pin_3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "Pin_4") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "Pin_5") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "C") 
+      (description "Unpolarized capacitor") 
+      (docs "~") 
+      (footprints 
+        (fp "C_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "D_Shockley") 
+      (description "Shockley (PNPN) diode") 
+      (docs "~") 
+      (footprints 
+        (fp "TO-???*") 
+        (fp "*_Diode_*") 
+        (fp "*SingleDiode*") 
+        (fp "D_*")) 
+      (fields 
+        (field 
+          (name "Reference") "D") 
+        (field 
+          (name "Value") "D_Shockley") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "K") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "A") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "LED") 
+      (description "Light emitting diode") 
+      (docs "~") 
+      (footprints 
+        (fp "LED*") 
+        (fp "LED_SMD:*") 
+        (fp "LED_THT:*")) 
+      (fields 
+        (field 
+          (name "Reference") "D") 
+        (field 
+          (name "Value") "LED") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "K") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "A") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "Q_NMOS_GSD") 
+      (description "N-MOSFET transistor, gate/source/drain") 
+      (docs "~") 
+      (fields 
+        (field 
+          (name "Reference") "Q") 
+        (field 
+          (name "Value") "Q_NMOS_GSD") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "G") 
+          (type "input")) 
+        (pin 
+          (num "2") 
+          (name "S") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "D") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "R") 
+      (description "Resistor") 
+      (docs "~") 
+      (footprints 
+        (fp "R_*")) 
+      (fields 
+        (field 
+          (name "Reference") "R") 
+        (field 
+          (name "Value") "R") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "Speaker") 
+      (description "Speaker") 
+      (docs "~") 
+      (fields 
+        (field 
+          (name "Reference") "LS") 
+        (field 
+          (name "Value") "Speaker") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "input")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "input")))) 
+    (libpart 
+      (lib "Interface_CAN_LIN") 
+      (part "MCP2561-E-P") 
+      (description "High-Speed CAN Transceiver, 1Mbps, 5V supply, SPLIT pin, -40C to +125C, DIP-8") 
+      (docs "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf") 
+      (footprints 
+        (fp "DIP*W7.62mm*")) 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "MCP2561-E-P") 
+        (field 
+          (name "Footprint") "Package_DIP:DIP-8_W7.62mm") 
+        (field 
+          (name "Datasheet") "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "TXD") 
+          (type "input")) 
+        (pin 
+          (num "2") 
+          (name "VSS") 
+          (type "power_in")) 
+        (pin 
+          (num "3") 
+          (name "VDD") 
+          (type "power_in")) 
+        (pin 
+          (num "4") 
+          (name "RXD") 
+          (type "output")) 
+        (pin 
+          (num "5") 
+          (name "SPLIT") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "CANL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "7") 
+          (name "CANH") 
+          (type "bidirectional")) 
+        (pin 
+          (num "8") 
+          (name "STBY") 
+          (type "input")))) 
+    (libpart 
+      (lib "Jumper") 
+      (part "SolderJumper_2_Open") 
+      (description "Solder Jumper, 2-pole, open") 
+      (docs "~") 
+      (footprints 
+        (fp "SolderJumper*Open*")) 
+      (fields 
+        (field 
+          (name "Reference") "JP") 
+        (field 
+          (name "Value") "SolderJumper_2_Open") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "B") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Mechanical") 
+      (part "MountingHole_Pad") 
+      (description "Mounting Hole with connection") 
+      (docs "~") 
+      (footprints 
+        (fp "MountingHole*Pad*")) 
+      (fields 
+        (field 
+          (name "Reference") "H") 
+        (field 
+          (name "Value") "MountingHole_Pad") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "input")))) 
+    (libpart 
+      (lib "NUCLEO-F303K8") 
+      (part "NUCLEO-F303K8") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "NUCLEO-F303K8") 
+        (field 
+          (name "Footprint") "MODULE_NUCLEO-F303K8") 
+        (field 
+          (name "PARTREV") "5") 
+        (field 
+          (name "MANUFACTURER") "STMicroelectronics") 
+        (field 
+          (name "SNAPEDA_PN") "NUCLEO-F303K8") 
+        (field 
+          (name "MAXIMUM_PACKAGE_HEIGHT") "N/A") 
+        (field 
+          (name "STANDARD") "Manufacturer Recommendations")) 
+      (pins 
+        (pin 
+          (num "3_1") 
+          (name "PA9") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_2") 
+          (name "PA10") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_3") 
+          (name "NRST_1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_4") 
+          (name "GND_1") 
+          (type "power_in")) 
+        (pin 
+          (num "3_5") 
+          (name "PA12") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_6") 
+          (name "PB0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_7") 
+          (name "PB7") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_8") 
+          (name "PB6") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_9") 
+          (name "PB1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_10") 
+          (name "PF0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_11") 
+          (name "PF1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_12") 
+          (name "PA8") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_13") 
+          (name "PA11") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_14") 
+          (name "PB5") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3_15") 
+          (name "PB4") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_1") 
+          (name "VIN") 
+          (type "power_in")) 
+        (pin 
+          (num "4_2") 
+          (name "GND_2") 
+          (type "power_in")) 
+        (pin 
+          (num "4_3") 
+          (name "NRST_2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_4") 
+          (name "+5V") 
+          (type "power_in")) 
+        (pin 
+          (num "4_5") 
+          (name "PA2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_6") 
+          (name "PA7") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_7") 
+          (name "PA6") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_8") 
+          (name "PA5") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_9") 
+          (name "PA4") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_10") 
+          (name "PA3") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_11") 
+          (name "PA1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_12") 
+          (name "PA0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_13") 
+          (name "AREF") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4_14") 
+          (name "+3V3") 
+          (type "power_in")) 
+        (pin 
+          (num "4_15") 
+          (name "PB3") 
+          (type "bidirectional")))) 
+    (libpart 
+      (lib "Switch") 
+      (part "SW_DPDT_x2") 
+      (description "Switch, dual pole double throw, separate symbols") 
+      (docs "~") 
+      (footprints 
+        (fp "SW*DPDT*")) 
+      (fields 
+        (field 
+          (name "Reference") "SW") 
+        (field 
+          (name "Value") "SW_DPDT_x2") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "B") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "C") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "A") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "B") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "C") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Switch") 
+      (part "SW_Push") 
+      (description "Push button switch, generic, two pins") 
+      (docs "~") 
+      (fields 
+        (field 
+          (name "Reference") "SW") 
+        (field 
+          (name "Value") "SW_Push") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive"))))) 
+  (libraries 
+    (library 
+      (logical "Connector") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Connector.kicad_sym")) 
+    (library 
+      (logical "Connector_Generic") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Connector_Generic.kicad_sym")) 
+    (library 
+      (logical "Device") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Device.kicad_sym")) 
+    (library 
+      (logical "Interface_CAN_LIN") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Interface_CAN_LIN.kicad_sym")) 
+    (library 
+      (logical "Jumper") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Jumper.kicad_sym")) 
+    (library 
+      (logical "Mechanical") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Mechanical.kicad_sym")) 
+    (library 
+      (logical "NUCLEO-F303K8") 
+      (uri "C:/Users/FMVRED/Documents/KiCad/myParts/NUCLEO-F303K8/NUCLEO-F303K8.kicad_sym")) 
+    (library 
+      (logical "Switch") 
+      (uri "C:\\Program Files\\KiCad\\6.0\\share\\kicad\\symbols\\/Switch.kicad_sym"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "+3V3") 
+      (node 
+        (ref "J13") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J17") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP12") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_14") 
+        (pinfunction "+3V3") 
+        (pintype "power_in"))) 
+    (net 
+      (code "2") 
+      (name "+5V") 
+      (node 
+        (ref "C1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J10") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J10") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J11") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J14") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J15") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J16") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J3") 
+        (pin "4") 
+        (pinfunction "Pin_4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J4") 
+        (pin "4") 
+        (pinfunction "Pin_4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J9") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J9") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP11") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R11") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_4") 
+        (pinfunction "+5V") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "3") 
+        (pinfunction "VDD") 
+        (pintype "power_in"))) 
+    (net 
+      (code "3") 
+      (name "BUZZER") 
+      (node 
+        (ref "J6") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP10") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP3") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_11") 
+        (pinfunction "PA1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "4") 
+      (name "CANH") 
+      (node 
+        (ref "J10") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J12") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J9") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R10") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "7") 
+        (pinfunction "CANH") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "5") 
+      (name "CANL") 
+      (node 
+        (ref "J10") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J12") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J9") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW4") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "6") 
+        (pinfunction "CANL") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "6") 
+      (name "CAN_RD") 
+      (node 
+        (ref "U1") 
+        (pin "3_13") 
+        (pinfunction "PA11") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "4") 
+        (pinfunction "RXD") 
+        (pintype "output"))) 
+    (net 
+      (code "7") 
+      (name "CAN_TD") 
+      (node 
+        (ref "U1") 
+        (pin "3_5") 
+        (pinfunction "PA12") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "1") 
+        (pinfunction "TXD") 
+        (pintype "input"))) 
+    (net 
+      (code "8") 
+      (name "ENC1A_PA9") 
+      (node 
+        (ref "J4") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_1") 
+        (pinfunction "PA9") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "9") 
+      (name "ENC1B_PA8") 
+      (node 
+        (ref "J4") 
+        (pin "5") 
+        (pinfunction "Pin_5") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_12") 
+        (pinfunction "PA8") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "10") 
+      (name "ENC2A_PB5") 
+      (node 
+        (ref "J3") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_14") 
+        (pinfunction "PB5") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "11") 
+      (name "ENC2B_PB4") 
+      (node 
+        (ref "J3") 
+        (pin "5") 
+        (pinfunction "Pin_5") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_15") 
+        (pinfunction "PB4") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "12") 
+      (name "GND") 
+      (node 
+        (ref "C1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "D1") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D10") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D12") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D2") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D3") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D4") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D5") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D6") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D7") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D8") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D9") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "H1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "input")) 
+      (node 
+        (ref "H2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "input")) 
+      (node 
+        (ref "H3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "input")) 
+      (node 
+        (ref "H4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "input")) 
+      (node 
+        (ref "J1") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J10") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J10") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J11") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J13") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J14") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J15") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J16") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J17") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J2") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J3") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J4") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J5") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J6") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J8") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J9") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J9") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "Q1") 
+        (pin "2") 
+        (pinfunction "S") 
+        (pintype "passive")) 
+      (node 
+        (ref "R13") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW3") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW5") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_4") 
+        (pinfunction "GND_1") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U1") 
+        (pin "4_2") 
+        (pinfunction "GND_2") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "2") 
+        (pinfunction "VSS") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "8") 
+        (pinfunction "STBY") 
+        (pintype "input"))) 
+    (net 
+      (code "13") 
+      (name "GPIO_PA0") 
+      (node 
+        (ref "J14") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J8") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP6") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_12") 
+        (pinfunction "PA0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "14") 
+      (name "GPIO_PA5") 
+      (node 
+        (ref "J1") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J15") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J2") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP1") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_8") 
+        (pinfunction "PA5") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "15") 
+      (name "Motor1A_PA6") 
+      (node 
+        (ref "J5") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP2") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_7") 
+        (pinfunction "PA6") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "16") 
+      (name "Motor1B_PA7") 
+      (node 
+        (ref "J5") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP4") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_6") 
+        (pinfunction "PA7") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "17") 
+      (name "Motor2B_PA3") 
+      (node 
+        (ref "J6") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP5") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_10") 
+        (pinfunction "PA3") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "18") 
+      (name "NRST") 
+      (node 
+        (ref "R14") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW5") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_3") 
+        (pinfunction "NRST_2") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "19") 
+      (name "Net-(D1-Pad2)") 
+      (node 
+        (ref "D1") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "20") 
+      (name "Net-(D2-Pad2)") 
+      (node 
+        (ref "D2") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "21") 
+      (name "Net-(D3-Pad2)") 
+      (node 
+        (ref "D3") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "22") 
+      (name "Net-(D4-Pad2)") 
+      (node 
+        (ref "D4") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "23") 
+      (name "Net-(D5-Pad2)") 
+      (node 
+        (ref "D5") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R5") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "24") 
+      (name "Net-(D6-Pad2)") 
+      (node 
+        (ref "D6") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R6") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "25") 
+      (name "Net-(D7-Pad2)") 
+      (node 
+        (ref "D7") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R7") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "26") 
+      (name "Net-(D8-Pad2)") 
+      (node 
+        (ref "D8") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R8") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "27") 
+      (name "Net-(D9-Pad2)") 
+      (node 
+        (ref "D9") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R9") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "28") 
+      (name "Net-(D10-Pad2)") 
+      (node 
+        (ref "D10") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R11") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "29") 
+      (name "Net-(D11-Pad1)") 
+      (node 
+        (ref "D11") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP11") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "LS1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "input")) 
+      (node 
+        (ref "R15") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "30") 
+      (name "Net-(D11-Pad2)") 
+      (node 
+        (ref "D11") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "LS1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "input")) 
+      (node 
+        (ref "Q1") 
+        (pin "3") 
+        (pinfunction "D") 
+        (pintype "passive"))) 
+    (net 
+      (code "31") 
+      (name "Net-(D12-Pad2)") 
+      (node 
+        (ref "D12") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R15") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "32") 
+      (name "Net-(JP1-Pad2)") 
+      (node 
+        (ref "JP1") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "33") 
+      (name "Net-(JP2-Pad2)") 
+      (node 
+        (ref "JP2") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "34") 
+      (name "Net-(JP3-Pad2)") 
+      (node 
+        (ref "JP3") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "35") 
+      (name "Net-(JP4-Pad2)") 
+      (node 
+        (ref "JP4") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "36") 
+      (name "Net-(JP5-Pad2)") 
+      (node 
+        (ref "JP5") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R5") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "37") 
+      (name "Net-(JP6-Pad2)") 
+      (node 
+        (ref "JP6") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R6") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "38") 
+      (name "Net-(JP7-Pad2)") 
+      (node 
+        (ref "JP7") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R7") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "39") 
+      (name "Net-(JP8-Pad2)") 
+      (node 
+        (ref "JP8") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R8") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "40") 
+      (name "Net-(JP9-Pad2)") 
+      (node 
+        (ref "JP9") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R9") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "41") 
+      (name "Net-(JP10-Pad2)") 
+      (node 
+        (ref "JP10") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R12") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "42") 
+      (name "Net-(JP12-Pad2)") 
+      (node 
+        (ref "JP12") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "R14") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "43") 
+      (name "Net-(Q1-Pad1)") 
+      (node 
+        (ref "Q1") 
+        (pin "1") 
+        (pinfunction "G") 
+        (pintype "input")) 
+      (node 
+        (ref "R12") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R13") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "44") 
+      (name "Net-(R10-Pad1)") 
+      (node 
+        (ref "R10") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW4") 
+        (pin "3") 
+        (pinfunction "C") 
+        (pintype "passive"))) 
+    (net 
+      (code "45") 
+      (name "USR_LED1") 
+      (node 
+        (ref "JP7") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_6") 
+        (pinfunction "PB0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "46") 
+      (name "USR_LED2") 
+      (node 
+        (ref "JP8") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_9") 
+        (pinfunction "PB1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "47") 
+      (name "USR_LED3") 
+      (node 
+        (ref "JP9") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4_9") 
+        (pinfunction "PA4") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "48") 
+      (name "USR_SW1") 
+      (node 
+        (ref "SW1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_2") 
+        (pinfunction "PA10") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "49") 
+      (name "USR_SW2") 
+      (node 
+        (ref "SW2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_10") 
+        (pinfunction "PF0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "50") 
+      (name "USR_SW3") 
+      (node 
+        (ref "SW3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3_11") 
+        (pinfunction "PF1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "51") 
+      (name "unconnected-(J3-Pad2)") 
+      (node 
+        (ref "J3") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "52") 
+      (name "unconnected-(J4-Pad2)") 
+      (node 
+        (ref "J4") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "53") 
+      (name "unconnected-(J9-Pad3)") 
+      (node 
+        (ref "J9") 
+        (pin "3") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "54") 
+      (name "unconnected-(J9-Pad6)") 
+      (node 
+        (ref "J9") 
+        (pin "6") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "55") 
+      (name "unconnected-(J10-Pad3)") 
+      (node 
+        (ref "J10") 
+        (pin "3") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "56") 
+      (name "unconnected-(J10-Pad6)") 
+      (node 
+        (ref "J10") 
+        (pin "6") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "57") 
+      (name "unconnected-(SW4-Pad1)") 
+      (node 
+        (ref "SW4") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "58") 
+      (name "unconnected-(U1-Pad3_3)") 
+      (node 
+        (ref "U1") 
+        (pin "3_3") 
+        (pinfunction "NRST_1") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "59") 
+      (name "unconnected-(U1-Pad3_7)") 
+      (node 
+        (ref "U1") 
+        (pin "3_7") 
+        (pinfunction "PB7") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "60") 
+      (name "unconnected-(U1-Pad3_8)") 
+      (node 
+        (ref "U1") 
+        (pin "3_8") 
+        (pinfunction "PB6") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "61") 
+      (name "unconnected-(U1-Pad4_1)") 
+      (node 
+        (ref "U1") 
+        (pin "4_1") 
+        (pinfunction "VIN") 
+        (pintype "power_in+no_connect"))) 
+    (net 
+      (code "62") 
+      (name "unconnected-(U1-Pad4_5)") 
+      (node 
+        (ref "U1") 
+        (pin "4_5") 
+        (pinfunction "PA2") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "63") 
+      (name "unconnected-(U1-Pad4_13)") 
+      (node 
+        (ref "U1") 
+        (pin "4_13") 
+        (pinfunction "AREF") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "64") 
+      (name "unconnected-(U1-Pad4_15)") 
+      (node 
+        (ref "U1") 
+        (pin "4_15") 
+        (pinfunction "PB3") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "65") 
+      (name "unconnected-(U2-Pad5)") 
+      (node 
+        (ref "U2") 
+        (pin "5") 
+        (pinfunction "SPLIT") 
+        (pintype "passive+no_connect")))))
